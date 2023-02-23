@@ -1,0 +1,6 @@
+Am facut metodele post and get, ruleaza fara probleme, dar in momentul in care incerc din postman sa gasesc o carte, nu mi-o afiseaza;
+
+Pentru gasirea dupa cuvinte cheie se introduce 1, 2, 3, sau 4 in functie de ce doriti sa cautati,
+1 programming, 2 algorithm, 3 python, 4 robot
+
+Nu stiu sigur ce am uitat de nu mi le afiseaza sau unde am gresit
